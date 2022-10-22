@@ -68,6 +68,12 @@ List<AudioFile> audiolist = [
       url:
       'https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-one/animals_bird_cockrel_crow_in_barn.mp3',
       playingstatus: 0),
+  AudioFile(
+      title: 'bee buzz',
+      description: 'animal 11',
+      url:
+      'https://assets.mixkit.co/sfx/preview/mixkit-quick-insect-buzz-33.mp3',
+      playingstatus: 0),
 ];
 
 class AudioFile {
